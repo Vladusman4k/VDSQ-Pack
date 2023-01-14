@@ -1,0 +1,81 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hat.png",
+            "ascent": 8.0,
+            "height": 8.0,
+            "chars": ["\u00c7"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/police.png",
+            "ascent": 8.0,
+            "height": 8.0,
+            "chars": ["\u00c1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chief.png",
+            "ascent": 8.0,
+            "height": 8.0,
+            "chars": ["\u00c4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kl.png",
+            "ascent": 8.0,
+            "height": 8.0,
+            "chars": ["\u00c6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/book.png",
+            "ascent": 8.0,
+            "height": 8.0,
+            "chars": ["\u00d5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hammer.png",
+            "ascent": 8.0,
+            "height": 8.0,
+            "chars": ["\u00d8"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/heart.png",
+            "ascent": 8.0,
+            "height": 8.0,
+            "chars": ["\u00b4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/presid.png",
+            "ascent": 8.0,
+            "height": 8.0,
+            "chars": ["\u00d9"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/coin.png",
+            "ascent": 8.0,
+            "height": 8.0,
+            "chars": ["\u00f6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/gcoin.png",
+            "ascent": 8.0,
+            "height": 8.0,
+            "chars": ["\u00fb"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/Goose.png",
+            "ascent": 8.0,
+            "height": 8.0,
+            "chars": ["\u00c5"]
+        }
+    ]
+}
