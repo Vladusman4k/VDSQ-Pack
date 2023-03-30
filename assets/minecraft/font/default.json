@@ -72,6 +72,27 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:font/gl_sudia.png",
+            "ascent": 7.5,
+            "height": 8.0,
+            "chars": ["\u2112"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sudia.png",
+            "ascent": 7.5,
+            "height": 8.0,
+            "chars": ["\u210F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/mayor.png",
+            "ascent": 7.5,
+            "height": 8.0,
+            "chars": ["\u2114"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/Goose.png",
             "ascent": 7.5,
             "height": 8.0,
