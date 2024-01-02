@@ -97,6 +97,13 @@
             "ascent": 7.5,
             "height": 8.0,
             "chars": ["\u00c5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/logo.png",
+            "ascent": 0,
+            "height": 30,
+            "chars": ["\u2155"]
         }
     ]
 }
