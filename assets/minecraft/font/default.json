@@ -2,108 +2,12 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/hat.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u00c7"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/police.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u00c1"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/chief.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u00c4"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/kl.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u00c6"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/book.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u00d5"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/hammer.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u00d8"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/heart.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u00b4"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/presid.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u00d9"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/coin.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u00f6"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/gcoin.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u00fb"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/gl_sudia.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u2112"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/sudia.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u210F"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/mayor.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u2114"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/Goose.png",
-            "ascent": 7.5,
-            "height": 8.0,
-            "chars": ["\u00c5"]
-        },
-        {
-            "type": "bitmap",
             "file": "minecraft:font/logo.png",
             "ascent": -100,
             "height": 30,
-            "chars": ["\u2155"]
+            "chars": [
+                "\u2155"
+            ]
         }
     ]
 }
